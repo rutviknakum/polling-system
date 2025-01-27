@@ -87,7 +87,7 @@ Real-time updates ensure that results are automatically updated for all users vi
 - **Framework**: Gin/Gorilla Mux (for API routing)
 
 ### Database
-- **Database Service**: Firebase Firestore or MongoDB Atlas
+- **Database Service**: Firebase Firestore 
   - **Collections**:
     - `Polls`: Stores poll questions and options.
     - `Votes`: Tracks votes for each poll.
